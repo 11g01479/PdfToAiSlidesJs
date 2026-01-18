@@ -1,0 +1,5 @@
+{
+  "name": "PDF to AI PowerPoint (JS)",
+  "description": "Vanilla JS & Gemini APIを使用した、PDFから解説付きパワーポイントを自動生成するツール。",
+  "requestFramePermissions": []
+}
